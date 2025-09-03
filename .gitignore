@@ -1,0 +1,23 @@
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# IDE files
+*.ncrunch*
+*.local.json
+
+# Logs
+*.log
+
+# Secrets (don’t push dev secrets to GitHub)
+appsettings.Development.json
